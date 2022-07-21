@@ -1,2 +1,2 @@
 # reinforcement_learning
-Reinforcement. learning code
+Reinforcement learning code
